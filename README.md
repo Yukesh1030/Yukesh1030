@@ -1,405 +1,235 @@
 <div align="center">
 
-# 👋 Hi, I'm Yukesh G
-
-### React Frontend Developer → AI Engineer
-
-<p>
-  <b>Building intelligent applications • Exploring GenAI • Turning ideas into real products</b>
-</p>
+<img src="assets/banner.svg" alt="Yukesh G — React Frontend Developer → AI Engineer" width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yukesh-g">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:yukeshyuki18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Yukesh1030">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Exploring+LLMs+%26+RAG;Learning+AI+Agents+%26+MCP;React+Frontend+Developer;Turning+Ideas+Into+Real+Projects" alt="Typing SVG"/>
+<a href="https://www.linkedin.com/in/yukesh-g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yukeshyuki18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Yukesh1030"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://yukesh1030.github.io/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Yukesh1030&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 `whoami`
 
 ```yaml
-name: Yukesh G
-location: Tamil Nadu, India
-education: B.E. Computer Science & Engineering
-graduation: 2024
-
-current_role: React Frontend Developer
-experience: 10+ months
-
+# ~/yukesh/about.yml
+name:            Yukesh G
+location:        Tamil Nadu, India
+education:       B.E. Computer Science & Engineering (2024)
+current_role:    React Frontend Developer        # 10+ months
 transitioning_to: AI Engineer
-
-interests:
-  - Generative AI
-  - Large Language Models
-  - RAG Systems
-  - AI Agents
-  - LLM Applications
-  - Full Stack Development
-
-mindset:
-  "Learn → Build → Break → Improve → Ship"
+interests:       [GenAI, LLMs, RAG, AI Agents, Full Stack]
+mindset:         "Learn → Build → Break → Improve → Ship"
+status:          🟢 building in public
 ```
 
-I'm a **React Frontend Developer** with professional experience building modern web interfaces, currently expanding my expertise into **AI Engineering and Generative AI**.
+I'm a **React Frontend Developer** with professional experience shipping modern web interfaces, now going deep on **AI Engineering** — how LLM-powered applications are really built, from **embeddings and vector search to RAG, agents, orchestration and production-ready systems**.
 
-My current focus is on understanding how LLM-powered applications are built — from **embeddings and vector search to RAG, agents, orchestration and production-ready AI systems**.
+My goal is to pair *frontend craft* with *AI engineering* so I can ship **complete, intelligent products** — not isolated AI demos.
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## ⚡ What I'm Working On
+## ⚡ Tech Arsenal
+
+<img src="assets/skills-marquee.svg" width="100%" alt="Scrolling tech stack: LLMs, RAG, LangGraph, MCP, React, Java, Spring Boot, Python, FastAPI and more"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,vite,tailwind,java,spring,python,fastapi,nodejs,mysql,mongodb,docker,git,aws&perline=14&theme=dark" alt="Dev stack icons"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🧠 The AI Engineering Journey
+
+<img src="assets/roadmap.svg" width="100%" alt="Roadmap: Web Dev, Backend, Python, ML Basics, GenAI, RAG, Advanced RAG (current), Agents, Production AI"/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Engineering
+### 📚 Currently learning
 
-* Generative AI
-* LLM Applications
-* RAG
-* Embeddings
-* Vector Databases
-* Prompt Engineering
-* LangChain
-* LangGraph
-* CrewAI
-* MCP
-* LoRA / QLoRA
+`Advanced RAG` `Hybrid Search` `Query Expansion` `Reranking` `LangGraph` `AI Agents` `MCP` `LLM Architecture`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🔨 Currently building
 
-### 💻 Full Stack Development
-
-* React.js
-* JavaScript
-* Java
-* Spring Boot
-* Python
-* FastAPI
-* REST APIs
-* MySQL
-* Docker
-* Git & GitHub
-* AWS Basics
+`AI-powered apps` `RAG systems` `LLM tools` `Full-stack projects` `Developer-focused AI tools`
 
 </td>
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-# 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### Languages
+<img src="assets/rag-pipeline.svg" width="100%" alt="RAG pipeline: documents, chunking, embedding, ChromaDB, semantic search, LLM, answer"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c,html,css"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Frontend
+### 🤖 RAG Knowledge Assistant
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind"/>
-</p>
+Ask questions about your own documents. Retrieves the most relevant passages and lets an LLM answer **only from that context**.
 
-### Backend
+`Python` `ChromaDB` `Embeddings` `RAG` `LLM`
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,python,fastapi"/>
-</p>
-
-### AI / GenAI
-
-<p>
-
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-FF5A36?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-4F46E5?style=for-the-badge"/>
-
-</p>
-
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,azure"/>
-</p>
-
-### Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,githubactions,vscode,figma"/>
-</p>
-
----
-
-# 🧠 AI Engineering Journey
-
-```text
-Programming
-     │
-     ▼
-Web Development
-     │
-     ▼
-React + Java
-     │
-     ▼
-Python + APIs
-     │
-     ▼
-Machine Learning Fundamentals
-     │
-     ▼
-Generative AI
-     │
-     ▼
-Embeddings + Vector Search
-     │
-     ▼
-RAG Applications
-     │
-     ▼
-LLM Applications
-     │
-     ▼
-AI Agents
-     │
-     ▼
-Production AI Systems
-```
-
-### Current Learning
-
-`Embeddings` → `Vector Search` → `Hybrid Search` → `RAG` → `Agents` → `LangGraph` → `MCP` → `Production AI`
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 RAG Knowledge Assistant
-
-A document-based AI assistant that retrieves relevant information from uploaded documents and generates answers using an LLM.
-
-**Core Concepts**
-
-`Python` `ChromaDB` `Embeddings` `RAG` `LLM` `Vector Search`
-
-**Highlights**
-
-* PDF document ingestion
-* Text chunking
-* Embedding generation
-* Vector storage
+* PDF ingestion & text chunking
+* Embedding generation → vector storage
 * Semantic retrieval
 * Context-aware LLM responses
 
----
+![status](https://img.shields.io/badge/status-evolving-8B5CF6?style=flat-square)
 
-## 🛒 Ration Shop Management System
+</td>
+<td width="50%" valign="top">
 
-A full-stack application designed to manage ration shop operations and customer-related information.
+### 🛒 Ration Shop Management System
 
-**Tech Stack**
+Full-stack app to manage ration shop operations and customer information.
 
 `React` `Java` `REST APIs` `MySQL`
 
-**Highlights**
+* React frontend, responsive UI
+* Java REST API layer
+* MySQL-backed CRUD operations
 
-* React-based frontend
-* Java REST APIs
-* MySQL database
-* CRUD operations
-* Responsive interface
+![status](https://img.shields.io/badge/status-shipped-34D399?style=flat-square)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 💬 Real-Time Chat Application
+### 💬 Real-Time Chat Application
 
-A real-time communication application developed using Java socket programming.
-
-**Tech Stack**
+Multi-client chat built from the ground up with Java socket programming.
 
 `Java` `Socket Programming` `Networking`
 
-**Highlights**
-
-* Client-server architecture
-* Real-time communication
-* Socket-based messaging
+* Client–server architecture
+* Real-time socket messaging
 * Multi-client communication
 
----
+![status](https://img.shields.io/badge/status-shipped-34D399?style=flat-square)
 
-## 🌐 Developer Portfolio
+</td>
+<td width="50%" valign="top">
 
-Personal developer portfolio showcasing my projects, technical skills and experience.
+### 🌐 Developer Portfolio
 
-**Tech Stack**
+My personal portfolio: projects, skills and experience in one place.
 
 `React` `Vite` `JavaScript` `CSS`
 
-🔗 **Live:**
-https://yukesh1030.github.io/
+* Fast Vite build
+* Responsive, component-driven UI
 
----
+🔗 **[yukesh1030.github.io](https://yukesh1030.github.io/)**
 
-# 📈 What I'm Building Toward
-
-```text
-                AI ENGINEER
-                    │
-        ┌───────────┴───────────┐
-        │                       │
-     LLM Apps                AI Agents
-        │                       │
-        ├── RAG                 ├── LangGraph
-        ├── Embeddings          ├── CrewAI
-        ├── Vector DB           └── MCP
-        └── Prompting
-                │
-                ▼
-        Production AI Systems
-```
-
-My goal is to combine my **frontend engineering experience** with **AI engineering** to build complete, intelligent products rather than isolated AI demos.
-
----
-
-# 🎯 Current Focus
-
-<table>
-<tr>
-<td>
-
-### 📚 Learning
-
-* Advanced RAG
-* Hybrid Search
-* Query Expansion
-* Reranking
-* LangGraph
-* AI Agents
-* MCP
-* LLM Architecture
-
-</td>
-
-<td>
-
-### 🔨 Building
-
-* AI-powered applications
-* RAG systems
-* LLM tools
-* Full-stack projects
-* Developer-focused AI tools
+![status](https://img.shields.io/badge/status-live-22D3EE?style=flat-square)
 
 </td>
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-# 🧩 Engineering Philosophy
+## 📊 GitHub Pulse
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yukesh1030&show_icons=true&theme=dark&bg_color=0d1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_color=30363d&border_radius=12" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukesh1030&layout=compact&langs_count=8&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9&border_color=30363d&border_radius=12" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=Yukesh1030&background=0d1117&stroke=30363d&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B5CF6&dates=8b949e&border=30363d&border_radius=12" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yukesh1030&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Graph&title_color=A78BFA" width="100%" alt="Contribution activity graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yukesh1030&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub trophies"/>
+
+</div>
+
+### 🐍 Feeding the snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yukesh1030/Yukesh1030/output/github-snake-dark.svg"/>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Yukesh1030/Yukesh1030/output/github-snake.svg" width="100%"/>
+</picture>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🧩 Engineering Philosophy
 
 > **Don't just learn the technology. Build something with it.**
 
-```text
-Learn
-  ↓
-Understand
-  ↓
-Build
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Deploy
-  ↓
-Repeat
-```
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/Yukesh1030">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yukesh1030&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=9CA3AF"/>
-
-</a>
-
-<a href="https://github.com/Yukesh1030">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yukesh1030&hide_border=true&theme=transparent&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA"/>
-
-</a>
-
-</div>
-
----
-
-# 📌 Currently
-
-```text
-💻 React Frontend Developer
-        +
-🤖 AI Engineering Learner
-        +
-🧠 LLM / RAG Explorer
-        +
-🚀 Building Real Projects
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yukesh-g">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yukeshyuki18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Yukesh1030">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<details>
+<summary><b>🔁 My loop <i>(click to expand)</i></b></summary>
 
 <br/>
 
+```text
+Learn ─▶ Understand ─▶ Build ─▶ Debug ─▶ Improve ─▶ Deploy ─┐
+  ▲                                                         │
+  └─────────────────────── Repeat ◀─────────────────────────┘
+```
+
+</details>
+
+<details>
+<summary><b>💬 Ask me about <i>(click to expand)</i></b></summary>
+
+<br/>
+
+* Building **RAG pipelines**: chunking, embeddings, ChromaDB, retrieval
+* Going from **React frontend → AI engineering** without starting over
+* **Java + Spring Boot** REST APIs with a React UI on top
+* Turning half-baked ideas into **shipped projects**
+
+</details>
+
+<details>
+<summary><b>🎯 Where I'm heading <i>(click to expand)</i></b></summary>
+
+<br/>
+
+```text
+                 AI ENGINEER
+                      │
+         ┌────────────┴────────────┐
+      LLM Apps                 AI Agents
+         ├─ RAG                    ├─ LangGraph
+         ├─ Embeddings             ├─ CrewAI
+         ├─ Vector DBs             └─ MCP
+         └─ Prompting
+                      │
+                      ▼
+            Production AI Systems
+```
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <div align="center">
 
-### ⚡ Build. Learn. Ship. Repeat.
+## 🤝 Let's Connect
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Products;Learning+AI+One+Project+At+A+Time;Building+The+Future+With+Code" alt="Footer Animation"/>
+<a href="https://www.linkedin.com/in/yukesh-g"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yukeshyuki18@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Yukesh1030"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="assets/footer.svg" width="100%" alt="Build. Learn. Ship. Repeat."/>
 
 </div>
