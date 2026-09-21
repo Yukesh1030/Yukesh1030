@@ -1,12 +1,14 @@
+<!-- ========================================================= -->
+<!--                        HERO                               -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<!-- HERO -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:312E81,70:7C3AED,100:A855F7&text=YUKESH%20G&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=REACT%20DEVELOPER%20%7C%20AI%20ENGINEER%20IN%20PROGRESS&descAlignY=61&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:312E81,70:7C3AED,100:A855F7&text=YUKESH%20G&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=REACT%20FRONTEND%20DEVELOPER%20%7C%20AI%20ENGINEER%20IN%20PROGRESS&descAlignY=62&descSize=17&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications;Exploring+LLMs+%26+Generative+AI;Engineering+RAG+%26+Hybrid+Search;Learning+AI+Agents+%26+MCP;React+Frontend+Developer;Java+%7C+Python+%7C+React;Turning+Ideas+Into+Real+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications;Exploring+Generative+AI+%26+LLMs;Engineering+RAG+%26+Vector+Search;Learning+AI+Agents+%26+MCP;React+%2B+Java+%2B+Python;Turning+Ideas+Into+Real+Products;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Repeat" />
 
 <br><br>
 
@@ -22,7 +24,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://yukesh1030.github.io/Yukesh-Portfolio2026/">
+<a href="https://yukesh1030.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -33,62 +35,60 @@
 </div>
 
 
+<!-- ========================================================= -->
+<!--                     INTRO                                -->
+<!-- ========================================================= -->
+
+<br>
+
+<div align="center">
+
+## 👋 Hi, I'm Yukesh G
+
+### `React Frontend Developer` → `AI Engineer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+Engineer+%7C+AI+Explorer;Building+with+React%2C+Java+%26+Python;Exploring+LLMs%2C+RAG+%26+AI+Agents"/>
+
+</div>
+
 ---
 
-# 👋 About Me
+# 🧑‍💻 About Me
 
-```yaml
-name: Yukesh G
+<div align="center">
 
-education:
-  degree: B.E. Computer Science and Engineering
-  graduation: 2024
+<table>
+<tr>
 
-current_role:
-  title: React Frontend Developer
-  experience: 10+ months
+<td width="50%" valign="top">
 
-career_direction:
-  from: Frontend Engineering
-  to: AI Engineering
+### 👨‍💻 Who I Am
 
-primary_interests:
-  - Generative AI
-  - Large Language Models
-  - Retrieval Augmented Generation
-  - Vector Search
-  - AI Agents
-  - LLM Applications
-  - Full Stack Development
+I'm a **React Frontend Developer** with professional experience building modern web interfaces.
 
-languages:
-  - Java
-  - Python
-  - JavaScript
-  - C
-  - C++
+I'm currently expanding my expertise into **AI Engineering and Generative AI**.
 
-development:
-  - React
-  - Spring Boot
-  - FastAPI
-  - REST APIs
-  - MySQL
+My goal is to combine strong software engineering fundamentals with modern AI technologies to build **complete intelligent applications**.
 
-currently_exploring:
-  - Advanced RAG
-  - Hybrid Search
-  - Query Expansion
-  - Reranking
-  - LangChain
-  - LangGraph
-  - CrewAI
-  - MCP
-  - LoRA
-  - QLoRA
+</td>
 
-mindset:
-  - Learn deeply
-  - Build consistently
-  - Debug intelligently
-  - Ship real projects
+<td width="50%" valign="top">
+
+### 🎯 My Direction
+
+```text
+Frontend Engineering
+        ↓
+Full Stack Development
+        ↓
+Python + APIs
+        ↓
+Generative AI
+        ↓
+LLMs
+        ↓
+RAG
+        ↓
+AI Agents
+        ↓
+Production AI
